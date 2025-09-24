@@ -108,6 +108,6 @@ class HmDianPingApplicationTests {
     
     @Test
     public void testOpenAiReviewJar(){
-        System.out.println("aaaa1111111");
+        System.out.println("test");
     }
 }
